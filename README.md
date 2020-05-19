@@ -11,3 +11,6 @@ In this project I get data from [jsonplaceholder](https://jsonplaceholder.typico
 **CSS library:**
 
 - [semantic-ui](https://semantic-ui.com/)
+
+Preview
+![alt](https://github.com/inoob26/reactjs_blog/blob/master/preview.png?raw=true)
